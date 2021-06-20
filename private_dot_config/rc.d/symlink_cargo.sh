@@ -1,0 +1,1 @@
+/home/zericco/.cargo/env

@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/zericco/.config'
+let g:netrw_dirhist_2='/home/zericco/.config/fish'
+let g:netrw_dirhist_3='/home/zericco/.config'
+let g:netrw_dirhist_4='/home/zericco/.config/rc.d'
+let g:netrw_dirhist_5='/home/zericco/.config'
+let g:netrw_dirhist_6='/home/zericco/.config/rc.d'
+let g:netrw_dirhist_7='/home/zericco'
+let g:netrw_dirhist_8='/home/zericco/.config'
+let g:netrw_dirhist_9='/home/zericco/.config/nvim'
